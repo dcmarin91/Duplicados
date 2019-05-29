@@ -1,0 +1,11 @@
+function numDuplicados(array)
+cont=0
+for each elem in array
+  if obj[elem]
+   aux++
+     if aux>0
+      cont++
+  retornar cont
+   else
+    obj[elem] = true
+retornar cont
